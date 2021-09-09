@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 jejejej
+=======
+jejejej
+Linea de Efrain
+Línea de Adriana
+>>>>>>> Stashed changes
